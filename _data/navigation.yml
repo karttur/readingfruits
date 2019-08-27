@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  include: 'N'
+
+- title: Front
+  url: /
+  include: 'N'
+
+- title: Science
+  url: /sceince/
+  include: 'N'
+
+- title: Political
+  url: /political/
+  include: 'N'
+
+- title: Hobby
+  url: /hobby/
+  include: 'N'
+
+- title: Search
+  url: /search/
+  include: 'N'
