@@ -2,7 +2,7 @@
 layout: "post"
 title: "science-363-6427-nitrogen-environment."
 date: "2019-02-08 05:41"
-modified: '2019-02-208 05:41'
+modified: '2019-02-08 05:41'
 categories: science
 excerpt: Space magnet measures cosmic ray and origin plus relation to dark matter
 tags:

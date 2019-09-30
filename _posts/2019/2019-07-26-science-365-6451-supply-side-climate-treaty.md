@@ -1,8 +1,8 @@
 ---
 layout: "post"
 title: "science-365-6451-supply-side-climate-treaty"
-date: "2019-08-02 05:41"
-modified: '2019-08-02 05:41'
+date: "2019-07-26 05:41"
+modified: '2019-07-26 05:41'
 categories: science
 excerpt: The case for a supply-side climate treaty
 tags:

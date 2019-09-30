@@ -1,8 +1,8 @@
 ---
 layout: "post"
 title: "science-364-6438-sticky-pesticide"
-date: "2019-02-08 05:41"
-modified: '2019-02-208 05:41'
+date: "2019-04-26 05:41"
+modified: '2019-04-26 05:41'
 categories: science
 excerpt: Sticky pesticide could prevent harmful runoff
 tags:

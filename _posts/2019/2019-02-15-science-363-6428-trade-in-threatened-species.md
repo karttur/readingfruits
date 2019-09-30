@@ -2,7 +2,7 @@
 layout: "post"
 title: "science-363-6428-trade-in-threatened-species"
 date: "2019-02-08 05:41"
-modified: '2019-02-208 05:41'
+modified: '2019-02-08 05:41'
 categories: science
 excerpt: Long delays in banning trade in threatened species
 tags:

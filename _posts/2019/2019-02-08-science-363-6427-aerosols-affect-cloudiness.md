@@ -2,7 +2,7 @@
 layout: "post"
 title: "science-363-6427-aerosols-affect-cloudiness"
 date: "2019-02-08 05:41"
-modified: '2019-02-208 05:41'
+modified: '2019-02-08 05:41'
 categories: science
 excerpt: New method reveals that aerosols have larger influence on cloud formation than hitherto thought
 tags:
