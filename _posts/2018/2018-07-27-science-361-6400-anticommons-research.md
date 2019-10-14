@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: "science-361-6400-anitcommons-research"
+title: "science-361-6400-anticommons-research"
 date: "2018-07-27 05:41"
 modified: '2018-07-27 05:41'
 categories: science
-excerpt: The anticommons at 20: Concerns for research continue
+excerpt: The anticommons at 20 Concerns for research continue
 tags:
   - Science
   - tragedy of the commons

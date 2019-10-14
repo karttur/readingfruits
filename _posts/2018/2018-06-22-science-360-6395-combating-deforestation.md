@@ -4,7 +4,7 @@ title: "science-360-6395-combating-deforestation"
 date: "2018-06-22 05:41"
 modified: '2018-06-22 05:41'
 categories: science
-excerpt: Combating deforestation: From satellite to intervention
+excerpt: Combating deforestation From satellite to intervention
 tags:
   - Science
   - deforestation
