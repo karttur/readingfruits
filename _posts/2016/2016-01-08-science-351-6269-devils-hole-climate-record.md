@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "sscience-351-6269-devils-hole-climate-record"
+title: "science-351-6269-devils-hole-climate-record"
 date: "2016-01-08 05:41"
 modified: '2016-01-08 05:41'
 categories: science
