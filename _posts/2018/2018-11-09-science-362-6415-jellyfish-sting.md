@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "science-362-6415-jellyish-sting."
+title: "science-362-6415-jellyfish-sting."
 date: "2018-11-09 05:41"
 modified: '2018-11-09 05:41'
 categories: science
