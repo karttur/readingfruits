@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: science-366-6462-paris-double-counting
-date: "2019-10-11 05:41"
-modified: '2019-10-11 05:41'
+title: science-365-6457-miniaturizing-spectrometer
+date: "2019-09-06 05:41"
+modified: '2019-09-06 05:41'
 categories: science
-excerpt: Double counting and the Paris Agreement rulebook
+excerpt: Miniaturizing spectrometer
 tags:
   - Science
   - climate change
@@ -15,8 +15,14 @@ comments: true
 share: true
 ---
 
-## Double counting and the Paris Agreement rulebook
+## Miniaturizing spectrometer
 
-[The 24th international climate conference in Katowice, Poland, in December 2018 was a major achievement in the multilateral response to climate change. More than 190 countries managed to agree on nearly all elements of a comprehensive rulebook that puts flesh on the bones of the 2015 Paris Agreement. The rules require, for the first time, that all countries provide detailed information on their climate change mitigation targets and regularly report on their progress in implementing and achieving them. However, one important chapter is still missing: rules for international carbon markets discussed under Article 6 of the Paris Agreement. Competing views on how to avoid “double counting”—counting the same emission reduction more than once to achieve climate mitigation targets—were a major roadblock to reaching consensus. Completing the missing chapter on Article 6 will be one of the key tasks when countries reconvene at the 25th international climate conference in Santiago, Chile, in December of this year. We highlight why resolving double counting is critical for achieving the goals of the Paris Agreement and identify essential ingredients for a robust outcome that ensures environmental effectiveness and facilitates cost-effective mitigation.](DOI: 10.1126/science.aay8750)
+[That's where mass spectrometers are, I would argue, one of the single most advantageous tools, because with a single analyzer you can detect a wide array of compounds," says Girguis.There's no denying the incredible power of mass spectrometry. ... The shrinking of mass spectrometers is really about doing in situ, on-site measurements," Cooks says. ... As a result, most mini-mass specs are built from more forgiving mass analyzers, namely ion traps and quadrupoles—though at least two researchers have succeeded in miniaturizing a TOF, including Verbeck.](DOI: 10.1126/science.opms.p1400082)
 
-By Lambert Schneider, et al. | Oct 11th, 2019
+By Jeffrey M. Perkel | Feb 21st, 2014
+
+## Single-nanowire spectrometers
+
+[Miniaturizing spectrometers Spectroscopy is a ubiquitous characterization tool spanning most scientific and many industrial disciplines. Most handheld spectrometers are based on tabletop optical components, which limits the scale to which these spectrometers can be shrunk. ... A variety of miniaturized, portable spectrometers have been developed for applications in which reduced footprint and weight take precedence over high resolution.](DOI: 10.1126/science.aax8814)
+
+By Xiaomu Wang, et al. | Sep 6th, 2019
