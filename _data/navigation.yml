@@ -4,12 +4,12 @@
   url: /about/
   include: 'N'
 
-- title: Front
+- title: Fount
   url: /
   include: 'N'
 
 - title: Science
-  url: /sceince/
+  url: /science/
   include: 'N'
 
 - title: Political

@@ -13,6 +13,7 @@ tags:
   - plate tectonics
   - glacial cycles
   - Can this be seen by OCO-2
+  - book
 
 comments: true
 share: true

@@ -4,7 +4,7 @@ title: "science-361-6399-climate-change-seasonal-fingerprint"
 date: "2018-07-20 05:41"
 modified: '2018-07-20 05:41'
 categories: science
-excerpt: The seasonal fingerprint of climate change
+excerpt: Satellite data provide evidence for human impacts on the seasonal temperature cycle
 tags:
   - Science
   - climate change
@@ -17,9 +17,9 @@ share: true
 
 ## The seasonal fingerprint of climate change
 
-[Several factors could explain the absence of pooling in this arena: the need for at least some market exclusivity in an environment with extremely high costs of product development, clinical trials, and regulatory approval; patent holders' desire to retain control over their assets; and concerns over compromising commercial secrecy by collaborating with others.](DOI: 10.1126/science.aau2405)
+[The fingerprint pattern against which the observations are evaluated is based on the evolving seasonal cycle in a large group of climate models subjected to anthropogenic and natural forcings. ... In addition to providing an additional diagnostic of climate change, these results describe a metric—the amplitude of the seasonal cycle—that can be used to evaluate climate model behavior; the different models simulate this response to varying degrees.](DOI: 10.1126/science.aat9097)
 
-By Klaus Kümmerer, et al. | Jul 20th, 2018
+By William J. Randel | Jul 18th, 2018
 
 ## Human influence on the seasonal cycle of tropospheric temperature
 

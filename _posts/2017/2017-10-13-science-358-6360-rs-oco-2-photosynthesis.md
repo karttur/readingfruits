@@ -11,7 +11,7 @@ tags:
   - remote sensing
   - orbiting carbon observatory
   - photosynthesis
-
+  - rs-book
 comments: true
 share: true
 ---
